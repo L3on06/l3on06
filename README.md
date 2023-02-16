@@ -1,4 +1,4 @@
-<img align="left" height="500" src="https://media.discordapp.net/attachments/1064573636578656336/1075516274840449094/ReadyPlayerMe-Avatar_9_1.png" />
+<img align="left" style="height: 40vw;" src="https://media.discordapp.net/attachments/1064573636578656336/1075516274840449094/ReadyPlayerMe-Avatar_9_1.png" />
 
 ###
 
