@@ -1,7 +1,6 @@
 <figure >
-    <img align="left" src="https://media.discordapp.net/attachments/1064573636578656336/1076117528914432101/oie_RVTtol4sQaJA.png">
+    <img style="height: 30vw;" align="left" src="https://media.discordapp.net/attachments/1064573636578656336/1076117528914432101/oie_RVTtol4sQaJA.png">
 </figure>
-<img  src="" />
 
 ###
 
