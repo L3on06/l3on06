@@ -11,4 +11,4 @@
 
 ###
 
-![snake gif](https://github.com/l3on06/l3on06/blob/output/github-contribution-grid-snake.dark.svg)
+![snake gif](https://github.com/l3on06/l3on06/blob/output/github-contribution-grid-snake-dark.svg)
