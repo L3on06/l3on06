@@ -9,6 +9,11 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=l3.l3&left_color=darkgreen&right_color=purple&left_text=Visitors" />
 
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com?user=l3on06&theme=shadow-purple&border_radius=50" alt="streak stats"/>
+</div>
+
+
 ###
 
 ![snake gif](https://github.com/l3on06/l3on06/blob/output/github-contribution-grid-snake-dark.svg)
