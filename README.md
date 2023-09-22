@@ -4,15 +4,17 @@
     <img style="height: 30vw;" align="left" src="https://media.discordapp.net/attachments/1064573636578656336/1076117528914432101/oie_RVTtol4sQaJA.png">
 </figure>
 
-
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=l3.l3&left_color=darkgreen&right_color=purple&left_text=Visitors" />
+<figure>
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=l3.l3&left_color=darkgreen&right_color=purple&left_text=Visitors" />
+</figure>
 
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=l3on06&theme=shadow-purple&border_radius=50" alt="streak stats"/>
-</div>
-
+<br>
+    
+<figure align=center>
+    <img width=50% src="https://streak-stats.demolab.com?user=l3on06&theme=shadow-purple&border_radius=50" alt="streak stats"/>
+</figure>
 
 ###
 
