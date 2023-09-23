@@ -14,6 +14,8 @@
     
 <figure align=center>
     <img width=50% src="https://streak-stats.demolab.com?user=l3on06&theme=shadow-purple&border_radius=50" alt="streak stats"/>
+    <img width=50% src="https://github-readme-stats.vercel.app/api?username=l3on06&show_icons=true&theme=jolly&border_radius=50" alt="streak stats"/>
+    
 </figure>
 
 ###
