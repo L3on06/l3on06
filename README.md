@@ -3,9 +3,9 @@
 <img align="left" width="25%" src="https://cdn.discordapp.com/attachments/1267588257521205375/1267610199678783538/ReadyPlayerMe-Avatar_1.png?ex=66a9697e&is=66a817fe&hm=1d810dada1efc412a4c4fbedd103bfd54223a3b057ab4bb0ead50b20de8b4602&">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=l3on06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=true" width="40%" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=l3on06&locale=en&mode=daily&theme=jolly&hide_border=true" width="40%" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=l3on06&theme=modern-lilac&area=true&hide_border=true&hide_title=true" width="40%" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=l3on06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=true" width="55%" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=l3on06&locale=en&mode=daily&theme=jolly&hide_border=true" width="55%" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=l3on06&theme=modern-lilac&area=true&hide_border=true&hide_title=true" width="55%" alt="activity-graph graph"  />
 </div>
 
 <picture  align="center">
