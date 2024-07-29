@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=l3on06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=true" width="40%" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=l3on06&locale=en&mode=daily&theme=jolly&hide_border=true" width="40%" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=l3on06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=jolly&hide_border=true" width="40%" alt="languages graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=l3on06&theme=modern-lilac&area=true&hide_border=true&hide_title=true" width="40%" alt="activity-graph graph"  />
 </div>
 
