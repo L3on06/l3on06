@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&weight=600&size=30&duration=4500&pause=500&color=671C95&width=1200&height=200&lines=Welcome!+Thank+you+for+coming+to+see+me+and+my+creations.;I'm+Leon+Shabani%2C+a+full-stack+developer+with+a+keen+eye+for+detail.;+I+am+a+fast+learner+and+always+eager+to+expand+my+knowledge+and+skills.;Who's+always+ready+to+take+on+new+and+exciting+projects.;I+am+well-equipped+to+tackle+any+project+that+comes+my+way.;My+goal+is+to+make+every+project+unique%2C+and;to+deliver+the+best+possible+product+to+my+clients.;Dedicated+to+bringing+unique+ideas+to+life.)](https://git.io/typing-svg)
 
-<img align="left" width="25%" src="https://cdn.discordapp.com/attachments/1267588257521205375/1267610199678783538/ReadyPlayerMe-Avatar_1.png?ex=66a9697e&is=66a817fe&hm=1d810dada1efc412a4c4fbedd103bfd54223a3b057ab4bb0ead50b20de8b4602&">
+<img align="left" width="25%" src="https://cdn.discordapp.com/attachments/1267588257521205375/1267610199678783538/ReadyPlayerMe-Avatar_1.png?ex=66b49e3e&is=66b34cbe&hm=9950e788e91c86c71f4c63b993760739937454bc1eb99799fd4da3c517a3b72b&">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=l3on06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=true" width="55%" alt="stats graph" /> <br>
